@@ -2,3 +2,4 @@
 *.zip
 kicad/Analogue/#auto_saved_files#
 _autosave-*
+*.bak
